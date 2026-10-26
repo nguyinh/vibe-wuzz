@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "vibe-wuzz-master",
+			"path": "../../vibe-wuzz-master"
+		},
+		{
+			"name": "vibe-wuzz-slave",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

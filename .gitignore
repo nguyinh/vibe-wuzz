@@ -1,0 +1,6 @@
+# PlatformIO generated files and local tool installations
+.pio/
+.pio-core/
+
+# macOS metadata
+.DS_Store
